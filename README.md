@@ -1,6 +1,8 @@
-# LIBRERÍA DE LA CLASE DE LA CLASE DE DATA SCIENCE DE THE BRIDGE, GRUPO DE SEPTIEMBRE 2022 MODALIDAD FULL TIME
+# LIBRERÍA PYQUIRRINDS
 
-## Esta librería incluye funciones de limpieza, visualización y machine learning
+Proyecto realizado en colaboración con el resto de alumnos del bootcamp.
+
+Al finalizar los módulos de limpieza, visualización y machine learning, creamos una librería con funciones que agilizan estos procesos y facilitan el orden y la estructura al escribir código.
 
 
 ### Limpieza
