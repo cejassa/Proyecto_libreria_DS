@@ -43,6 +43,7 @@ ratio_nulos(data, features)
 
 
 
+
 ### Visualización
 
 visualize_data(x, y)
@@ -82,6 +83,7 @@ vis_line(df, ejex, ejey, group="", type=0)
 matrix_sca (df, dimensiones, agrupar, titulo="Scatter Matrix")
 
 pca_visualization(df)
+
 
 
 ### Machine Learning
